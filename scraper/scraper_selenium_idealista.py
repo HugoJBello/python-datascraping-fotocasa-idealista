@@ -16,9 +16,9 @@ class ScraperSeleniumIdealista:
 
     def __init__(self, urls):
         self.urls = urls
-        self.driver = webdriver.Edge()
+        #self.driver = webdriver.Edge()
         #self.driver = webdriver.Chrome()
-        #self.driver = webdriver.Firefox()
+        self.driver = webdriver.Firefox()
         self.data ={}
         self.summaries = {}
     
