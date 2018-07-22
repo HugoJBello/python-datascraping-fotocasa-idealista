@@ -26,7 +26,7 @@ class ScraperSeleniumIdealista:
         for url_from_db in self.urls:
             driver = self.driver
             driver.get(url_from_db) 
-            driver.set_window_position(-4000,0)
+            #driver.set_window_position(-4000,0)
 
             self.get_data_from_page(driver,url_from_db) 
         driver.close()
