@@ -1,0 +1,130 @@
+1532248050027	geckodriver	INFO	geckodriver 0.20.0
+1532248050055	geckodriver	INFO	Listening on 127.0.0.1:57747
+1532248051081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.du20YVQ34x9S"
+1532248058728	Marionette	INFO	Enabled via --marionette
+1532248066380	Marionette	INFO	Listening on port 34541
+1532248067368	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5023): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 4959, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532248151091	geckodriver::marionette	ERROR	Failed to stop browser process
+1532248151247	geckodriver	INFO	geckodriver 0.20.0
+1532248151254	geckodriver	INFO	Listening on 127.0.0.1:44445
+1532248152290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Is9Y8Hcud4cu"
+1532248156780	Marionette	INFO	Enabled via --marionette
+1532248163690	Marionette	INFO	Listening on port 37571
+1532248164176	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532248349846	geckodriver::marionette	ERROR	Failed to stop browser process
+1532257093456	geckodriver	INFO	geckodriver 0.20.0
+1532257093488	geckodriver	INFO	Listening on 127.0.0.1:36433
+1532257094517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gtrjfaoFMx7U"
+1532257104328	Marionette	INFO	Enabled via --marionette
+1532257112614	Marionette	INFO	Listening on port 40601
+1532257113578	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532257166303	geckodriver	INFO	geckodriver 0.20.0
+1532257166317	geckodriver	INFO	Listening on 127.0.0.1:46679
+1532257167318	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mEIDaCoUw6TN"
+1532257168702	Marionette	INFO	Enabled via --marionette
+1532257172596	Marionette	INFO	Listening on port 41043
+1532257173446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x47000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x47000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532257224835	geckodriver::marionette	ERROR	Failed to stop browser process
+1532257224860	geckodriver	INFO	geckodriver 0.20.0
+1532257224874	geckodriver	INFO	Listening on 127.0.0.1:49791
+1532257225873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.taeT1G5jKPoH"
+1532257227292	Marionette	INFO	Enabled via --marionette
+1532257230976	Marionette	INFO	Listening on port 38587
+1532257231012	Marionette	WARN	TLS certificate errors will be ignored for this session
