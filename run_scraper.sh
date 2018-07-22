@@ -3,8 +3,9 @@ PATH=/opt/someApp/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/b
 if [[ ! $(pgrep -f main.py) ]]; 
 	then
 		python3 main.py > bash.log;
-		sudo killall python3;
-		sleep 30m
+		nano main.py;
+		sleep 30m;
+		killall nano;
 	else
 		echo already running > bash.log
 fi
