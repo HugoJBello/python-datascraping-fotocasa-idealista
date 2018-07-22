@@ -1,13 +1,13 @@
 ['https://www.idealista.com/venta-viviendas/galapagar-madrid/con-precio-hasta_300000,chalets,casas-de-pueblo/', 'https://www.idealista.com/venta-viviendas/moralzarzal-madrid/con-precio-hasta_300000,chalets,casas-de-pueblo/', 'https://www.idealista.com/venta-viviendas/madrid/zona-noroeste/alpedrete/con-precio-hasta_300000,chalets,casas-de-pueblo/', 'https://www.idealista.com/venta-viviendas/collado-mediano-madrid/con-precio-hasta_300000,chalets,casas-de-pueblo/', 'https://www.idealista.com/venta-viviendas/madrid/zona-noroeste/area-de-mataelpinocerceda/con-precio-hasta_300000,chalets,casas-de-pueblo/', 'https://www.idealista.com/venta-viviendas/madrid/zona-noroeste/area-de-colmenarejo/con-precio-hasta_300000,chalets,casas-de-pueblo/']
 obtaining data from https://www.fotocasa.es/es/comprar/casas/galapagar/todas-las-zonas/l?latitude=40.5796&longitude=-4.00262&maxPrice=300000&propertySubtypeIds=3;5;7;9&combinedLocationIds=724,14,28,172,218,28061,0,0,0&gridType=3
 Dúplex en Galapagar - Casa Amarilla..125..3--165.000
+Casa en Aguamarina..120..4--230.000
+Casa en Galapagar - Casa Amarilla..160..6--255.000
 Casa adosada en Sicilia..332..3--299.900
 Dúplex en Galapagar - Deportivo Galapagar - Los Almendros....3--230.000
 Dúplex en Monasterio..71..2--125.000
 Dúplex en Galapagar..90..3--169.000
 Finca rústica en Galapagar - Casa Amarilla..111..4--179.000
-Casa en De las Brisas, 23..152..4--268.000
-Dúplex en Prado Mingo..85..2--156.000
 Dúplex en Galapagar..90..3--169.000
 Dúplex en Galapagar - Deportivo Galapagar - Los Almendros..125..3--166.000
 Dúplex en Galapagar - Casa Amarilla..125..3--165.000
@@ -151,66 +151,142 @@ obtained 59 entries
 obtaining data from https://www.idealista.com/venta-viviendas/madrid/zona-noroeste/area-de-mataelpinocerceda/con-precio-hasta_300000,chalets,casas-de-pueblo/
 obtained 30 entries
 obtaining data from https://www.idealista.com/venta-viviendas/madrid/zona-noroeste/area-de-mataelpinocerceda/con-precio-hasta_300000,chalets,casas-de-pueblo/pagina-2.htm
-obtained 47 entries
+obtained 46 entries
 obtaining data from https://www.idealista.com/venta-viviendas/madrid/zona-noroeste/area-de-colmenarejo/con-precio-hasta_300000,chalets,casas-de-pueblo/
-obtained 18 entries
-------- saving data from url https://www.idealista.com/venta-viviendas/madrid/zona-noroeste/area-de-mataelpinocerceda/con-precio-hasta_300000,chalets,casas-de-pueblo/
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---262---3---260.000
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---225---4---289.000
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---Casa o chalet independiente en Cerceda------3---265.000
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---Chalet adosado en puente Madrid, 11, Cerceda---196---4---233.000
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---Casa o chalet independiente en calle san antonio, Mataelpino---240---3---255.000
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---Casa o chalet independiente en Mataelpino---150---5---240.000
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---Casa o chalet independiente en Mataelpino---193---4---275.000
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---Casa o chalet independiente en calle de Peñasierra, 12, El Boalo---200---3---240.000
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---Chalet adosado en Cerceda---210---3---245.000
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---Chalet adosado en Mataelpino------4---200.000
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---Casa o chalet independiente en avenida Madrid, 9, El Boalo---280---6---250.000
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---Casa o chalet independiente en calle de San Antonio, 15, Mataelpino---240---4---285.000
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---Casa o chalet independiente en calle Peñalara, 5, Cerceda---120---2---280.000
-saving f266e905b988fc31b197c3e8fe434cbecad8486c---Chalet adosado en calle Laurel, 13, Cerceda---200---3---290.000
+obtained 17 entries
+------- saving data from url https://www.idealista.com/venta-viviendas/collado-mediano-madrid/con-precio-hasta_300000,chalets,casas-de-pueblo/
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---189---3---290.000
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---Chalet pareado en camino de Navacerrada, 38, Collado Mediano---276---4---262.000
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---Casa o chalet independiente en Collado Mediano---200---6---269.000
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---254---4---289.000
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---Chalet adosado en calle de la Jara, 16, Collado Mediano---200---3---247.000
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---178---4---299.000
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---Chalet pareado en calle de los Olivos, 6, Collado Mediano---226---6---220.000
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---Chalet pareado en calle de Murillo, 8, Collado Mediano---200---4---290.000
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---Chalet pareado en Collado Mediano---190---4---218.000
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---Chalet adosado en calle de la Jara, 3, Collado Mediano---180---3---265.000
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---Chalet pareado en calle de Natalia, 5, Collado Mediano---280---4---260.000
+saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---Chalet pareado en avenida del Pinar, 95, Collado Mediano---185---4---270.000
+------- saving data from url https://www.idealista.com/venta-viviendas/moralzarzal-madrid/con-precio-hasta_300000,chalets,casas-de-pueblo/
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---154---3---290.000
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Chalet adosado en calle Pradillos, s/n, Zona Iglesia - Estación, Moralzarzal------3---251.750
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Chalet adosado en calle Manzanares el Real, 19, Zona Polideportivo Colonia, Moralzarzal---310---7---275.000
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---220---4---270.000
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Chalet adosado en Zona Polideportivo Colonia, Moralzarzal---310---7---275.000
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Chalet adosado en calle Romeral, 14, Zona Polideportivo Colonia, Moralzarzal---250---4---270.000
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Chalet adosado en calle manzanares el real, Zona Polideportivo Colonia, Moralzarzal---310---7---275.000
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Casa o chalet independiente en camino de Capellanía, s/n, Zona Polideportivo Colonia, Moralzarzal---50---3---55.000
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Casa o chalet independiente en paseo de los enebros, 22, Zona los Lagos, Moralzarzal---166---3---200.000
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Chalet adosado en Zona Centro, Moralzarzal---165---4---270.000
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Chalet adosado en calle del Raso, 3, Zona Centro, Moralzarzal---160---4---290.000
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Chalet adosado en calle de las Erillas, 17, Zona Iglesia - Estación, Moralzarzal---195---4---300.000
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Casa o chalet independiente en calle ESPAÑA, Zona Polideportivo Colonia, Moralzarzal---520---1---225.001
+saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Chalet pareado en calle Punta Arenas, 7, Zona Polideportivo Colonia, Moralzarzal---145---4---299.000
+------- saving data from url https://www.idealista.com/venta-viviendas/madrid/zona-noroeste/area-de-colmenarejo/con-precio-hasta_300000,chalets,casas-de-pueblo/
+saving 820b91b4a411373a2dc137856199507f437b06e3---------
+saving 820b91b4a411373a2dc137856199507f437b06e3---------
+saving 820b91b4a411373a2dc137856199507f437b06e3---180---4---289.900
+saving 820b91b4a411373a2dc137856199507f437b06e3---------
+saving 820b91b4a411373a2dc137856199507f437b06e3---------
+saving 820b91b4a411373a2dc137856199507f437b06e3---------
+saving 820b91b4a411373a2dc137856199507f437b06e3---------
+saving 820b91b4a411373a2dc137856199507f437b06e3---------
+saving 820b91b4a411373a2dc137856199507f437b06e3---------
+saving 820b91b4a411373a2dc137856199507f437b06e3---------
+saving 820b91b4a411373a2dc137856199507f437b06e3---------
+saving 820b91b4a411373a2dc137856199507f437b06e3---------
+saving 820b91b4a411373a2dc137856199507f437b06e3---------
+saving 820b91b4a411373a2dc137856199507f437b06e3---Casa o chalet independiente en calle del Marinero, 12, Colmenarejo---210---4---279.000
+saving 820b91b4a411373a2dc137856199507f437b06e3---Chalet pareado en calle Tejar, 9, Colmenarejo---230---3---290.000
+saving 820b91b4a411373a2dc137856199507f437b06e3---Chalet adosado en calle el Molino, 4, Colmenarejo---160---3---210.000
+saving 820b91b4a411373a2dc137856199507f437b06e3---Chalet en Colmenarejo---155---3---216.300
 ------- saving data from url https://www.fotocasa.es/es/comprar/casas/galapagar/todas-las-zonas/l?latitude=40.5796&longitude=-4.00262&maxPrice=300000&propertySubtypeIds=3;5;7;9&combinedLocationIds=724,14,28,172,218,28061,0,0,0&gridType=3
 saving 04a54b64cbb4dc8079131b4e3763283c93634bda---Dúplex en Galapagar - Casa Amarilla---125---3---165.000
+saving 04a54b64cbb4dc8079131b4e3763283c93634bda---Casa en Aguamarina---120---4---230.000
+saving 04a54b64cbb4dc8079131b4e3763283c93634bda---Casa en Galapagar - Casa Amarilla---160---6---255.000
 saving 04a54b64cbb4dc8079131b4e3763283c93634bda---Casa adosada en Sicilia---332---3---299.900
 saving 04a54b64cbb4dc8079131b4e3763283c93634bda---Dúplex en Galapagar - Deportivo Galapagar - Los Almendros------3---230.000
 saving 04a54b64cbb4dc8079131b4e3763283c93634bda---Dúplex en Monasterio---71---2---125.000
 saving 04a54b64cbb4dc8079131b4e3763283c93634bda---Dúplex en Galapagar---90---3---169.000
 saving 04a54b64cbb4dc8079131b4e3763283c93634bda---Finca rústica en Galapagar - Casa Amarilla---111---4---179.000
-saving 04a54b64cbb4dc8079131b4e3763283c93634bda---Casa en De las Brisas, 23---152---4---268.000
-saving 04a54b64cbb4dc8079131b4e3763283c93634bda---Dúplex en Prado Mingo---85---2---156.000
 saving 04a54b64cbb4dc8079131b4e3763283c93634bda---Dúplex en Galapagar---90---3---169.000
 saving 04a54b64cbb4dc8079131b4e3763283c93634bda---Dúplex en Galapagar - Deportivo Galapagar - Los Almendros---125---3---166.000
 saving 04a54b64cbb4dc8079131b4e3763283c93634bda---Dúplex en Galapagar - Casa Amarilla---125---3---165.000
@@ -326,8 +402,8 @@ saving 04a54b64cbb4dc8079131b4e3763283c93634bda---Dúplex en Estafeta, 6---105--
 ------- saving data from url https://www.idealista.com/venta-viviendas/madrid/zona-noroeste/alpedrete/con-precio-hasta_300000,chalets,casas-de-pueblo/
 saving fc09517726dcc266a83f56de10bbd1201292b5f6---180---4---285.000
 saving fc09517726dcc266a83f56de10bbd1201292b5f6---Casa o chalet independiente en Alpedrete---331---6---280.000
-saving fc09517726dcc266a83f56de10bbd1201292b5f6---------193.000
-saving fc09517726dcc266a83f56de10bbd1201292b5f6---------
+saving fc09517726dcc266a83f56de10bbd1201292b5f6---90---2---193.000
+saving fc09517726dcc266a83f56de10bbd1201292b5f6---Chalet adosado en Peñalara, Alpedrete---255---5---275.000
 saving fc09517726dcc266a83f56de10bbd1201292b5f6---------
 saving fc09517726dcc266a83f56de10bbd1201292b5f6---------
 saving fc09517726dcc266a83f56de10bbd1201292b5f6---------
@@ -354,123 +430,64 @@ saving fc09517726dcc266a83f56de10bbd1201292b5f6---Casa o chalet independiente en
 saving fc09517726dcc266a83f56de10bbd1201292b5f6---Casa o chalet independiente en calle de la Soledad, Alpedrete---90---2---193.000
 saving fc09517726dcc266a83f56de10bbd1201292b5f6---Chalet pareado en calle del río júcar, 12, Alpedrete---180---4---280.000
 saving fc09517726dcc266a83f56de10bbd1201292b5f6---Casa o chalet independiente en calle peña redondera, Alpedrete---154---3---271.400
-saving fc09517726dcc266a83f56de10bbd1201292b5f6---------
-saving fc09517726dcc266a83f56de10bbd1201292b5f6---------
-saving fc09517726dcc266a83f56de10bbd1201292b5f6---------
+saving fc09517726dcc266a83f56de10bbd1201292b5f6---Chalet adosado en calle de las Aguas, 29, Alpedrete---120---4---260.000
+saving fc09517726dcc266a83f56de10bbd1201292b5f6---Casa o chalet independiente en Alpedrete---90---2---193.000
+saving fc09517726dcc266a83f56de10bbd1201292b5f6---Chalet pareado en Alpedrete---180---4---280.000
 saving fc09517726dcc266a83f56de10bbd1201292b5f6---Casa o chalet independiente en Alpedrete---200---3---230.000
-saving fc09517726dcc266a83f56de10bbd1201292b5f6---Finca rústica en Alpedrete---100---3---249.000
-saving fc09517726dcc266a83f56de10bbd1201292b5f6---Chalet pareado en Alpedrete---232---4---269.000
-------- saving data from url https://www.idealista.com/venta-viviendas/collado-mediano-madrid/con-precio-hasta_300000,chalets,casas-de-pueblo/
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---189---3---290.000
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---Chalet pareado en camino de Navacerrada, 38, Collado Mediano---276---4---262.000
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---Casa o chalet independiente en Collado Mediano------6---269.000
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---Chalet adosado en calle de la Jara, 16, Collado Mediano---200---3---247.000
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---178---4---299.000
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---Chalet pareado en calle de los Olivos, 6, Collado Mediano---226---6---220.000
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---Chalet pareado en calle de Murillo, 8, Collado Mediano---200---4---290.000
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---180---2---250.000
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---Chalet pareado en Collado Mediano---200---4---275.000
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---Chalet pareado en Collado Mediano---257---4---270.000
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---Chalet pareado en Collado Mediano---233---4---255.000
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---------
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---Chalet pareado en Collado Mediano---190---4---218.000
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---Chalet adosado en calle de la Jara, 3, Collado Mediano---180---3---265.000
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---Chalet pareado en calle de Natalia, 5, Collado Mediano---280---4---260.000
-saving fe9892c0d7c57f70f662cb945a03b9e4af16e909---Chalet pareado en avenida del Pinar, 95, Collado Mediano---185---4---270.000
-------- saving data from url https://www.idealista.com/venta-viviendas/moralzarzal-madrid/con-precio-hasta_300000,chalets,casas-de-pueblo/
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---154---3---290.000
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Chalet pareado en calle Pradillos, s/n, Zona Iglesia - Estación, Moralzarzal---146---4---259.750
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Chalet adosado en calle Pradillos, s/n, Zona Iglesia - Estación, Moralzarzal------3---251.750
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Chalet adosado en calle Manzanares el Real, 19, Zona Polideportivo Colonia, Moralzarzal---310---7---275.000
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---220---4---270.000
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Chalet adosado en Zona Polideportivo Colonia, Moralzarzal---310---7---275.000
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Chalet adosado en calle Romeral, 14, Zona Polideportivo Colonia, Moralzarzal---250---4---270.000
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Chalet adosado en calle manzanares el real, Zona Polideportivo Colonia, Moralzarzal---310---7---275.000
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Casa o chalet independiente en camino de Capellanía, s/n, Zona Polideportivo Colonia, Moralzarzal---50---3---55.000
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Casa o chalet independiente en paseo de los enebros, 22, Zona los Lagos, Moralzarzal---166---3---200.000
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Chalet adosado en Zona Centro, Moralzarzal---165---4---270.000
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---------
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Chalet adosado en calle del Raso, 3, Zona Centro, Moralzarzal---160---4---290.000
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Chalet adosado en calle de las Erillas, 17, Zona Iglesia - Estación, Moralzarzal---195---4---300.000
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Casa o chalet independiente en calle ESPAÑA, Zona Polideportivo Colonia, Moralzarzal---520---1---225.001
-saving 1948cff1cf2bc11b7169867669ef5cf34b01f10c---Chalet pareado en calle Punta Arenas, 7, Zona Polideportivo Colonia, Moralzarzal---145---4---299.000
+saving fc09517726dcc266a83f56de10bbd1201292b5f6---------
+saving fc09517726dcc266a83f56de10bbd1201292b5f6---------
+------- saving data from url https://www.idealista.com/venta-viviendas/madrid/zona-noroeste/area-de-mataelpinocerceda/con-precio-hasta_300000,chalets,casas-de-pueblo/
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---262---3---260.000
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------289.000
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---Chalet adosado en puente Madrid, 11, Cerceda---196---4---233.000
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---Casa o chalet independiente en calle san antonio, Mataelpino---240---3---255.000
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---Casa o chalet independiente en Mataelpino---150---5---240.000
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---Casa o chalet independiente en Mataelpino---193---4---275.000
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---Casa o chalet independiente en calle de Peñasierra, 12, El Boalo---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---------
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---Casa o chalet independiente en avenida Madrid, 9, El Boalo---280---6---250.000
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---Casa o chalet independiente en calle de San Antonio, 15, Mataelpino---240---4---285.000
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---Casa o chalet independiente en calle Peñalara, 5, Cerceda---120---2---280.000
+saving f266e905b988fc31b197c3e8fe434cbecad8486c---Chalet adosado en calle Laurel, 13, Cerceda---200---3---290.000
 ------- saving data from url https://www.idealista.com/venta-viviendas/galapagar-madrid/con-precio-hasta_300000,chalets,casas-de-pueblo/
 saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1---190---3---257.500
-saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1------4---259.000
-saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1---------
-saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1---------
+saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1---205---4---259.000
+saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1---271---4---295.000
+saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1---140---4---239.900
 saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1---------
 saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1---------
 saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1---------
@@ -497,7 +514,7 @@ saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1---Chalet adosado en calle Arenis
 saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1---Chalet adosado en crecida, 18, La Navata, Galapagar---240---4---275.000
 saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1---Chalet adosado en calle de Cervantes, 18, La Navata, Galapagar---240---3---275.000
 saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1---Chalet adosado en calle Yucas, 27, Casa Amarilla, Galapagar---132---4---220.000
-saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1---------
+saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1---Casa o chalet independiente en calle Mayor, 47, El Guijo - Colonia España, Galapagar---------
 saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1---------
 saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1---------
 saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1---------
@@ -532,22 +549,3 @@ saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1---Chalet adosado en carretera Ga
 saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1---75---2---180.000
 saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1---Casa o chalet independiente en Casa Amarilla, Galapagar---110---3---220.000
 saving e4c97e1d5a83da7de5838a0e8ba191207dbea6c1---------
-------- saving data from url https://www.idealista.com/venta-viviendas/madrid/zona-noroeste/area-de-colmenarejo/con-precio-hasta_300000,chalets,casas-de-pueblo/
-saving 820b91b4a411373a2dc137856199507f437b06e3---180---3---265.000
-saving 820b91b4a411373a2dc137856199507f437b06e3---120---2---216.000
-saving 820b91b4a411373a2dc137856199507f437b06e3---180---4---289.900
-saving 820b91b4a411373a2dc137856199507f437b06e3---180---3---216.000
-saving 820b91b4a411373a2dc137856199507f437b06e3---------
-saving 820b91b4a411373a2dc137856199507f437b06e3---------
-saving 820b91b4a411373a2dc137856199507f437b06e3---------
-saving 820b91b4a411373a2dc137856199507f437b06e3---------
-saving 820b91b4a411373a2dc137856199507f437b06e3---------
-saving 820b91b4a411373a2dc137856199507f437b06e3---------
-saving 820b91b4a411373a2dc137856199507f437b06e3---------
-saving 820b91b4a411373a2dc137856199507f437b06e3---------
-saving 820b91b4a411373a2dc137856199507f437b06e3---------
-saving 820b91b4a411373a2dc137856199507f437b06e3---------
-saving 820b91b4a411373a2dc137856199507f437b06e3---Casa o chalet independiente en calle del Marinero, 12, Colmenarejo---210---4---279.000
-saving 820b91b4a411373a2dc137856199507f437b06e3---Chalet pareado en calle Tejar, 9, Colmenarejo---230---3---290.000
-saving 820b91b4a411373a2dc137856199507f437b06e3---Chalet adosado en calle el Molino, 4, Colmenarejo---160---3---210.000
-saving 820b91b4a411373a2dc137856199507f437b06e3---Chalet en Colmenarejo---155---3---216.300

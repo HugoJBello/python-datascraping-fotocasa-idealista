@@ -3,4 +3,6 @@ data/
 .idea/
 .vscode/
 venv/
-.log
+geckodriver.log
+*.swp
+*.log
